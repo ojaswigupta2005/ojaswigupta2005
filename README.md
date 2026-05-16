@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Ojaswi 👋
 
 <!--
 **ojaswigupta2005/ojaswigupta2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Computational Biology & Data Science Enthusiast
+
+- B.Tech Biosciences and Bioengineering @ IIT Jodhpur
+- Interested in Computational Biology, Machine Learning, and Network Science
+- Working on scRNA-seq analysis, PPI networks, and systems biology
+
+---
+
+## Tech Stack
+
+- Python
+- C/C++
+- NumPy
+- pandas
+- scikit-learn
+- PyTorch
+- Streamlit
+- Cytoscape
+
+---
+
+## Current Work
+
+- Triad of Cellular Intelligence
+- Disease Spread Simulation using Network Models
+- Machine Learning Implementations from Scratch
